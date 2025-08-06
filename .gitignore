@@ -1,0 +1,48 @@
+# Python bytecode / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Packaging / build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+*.spec
+
+# Executables (do not commit EXEs)
+*.exe
+*.dll
+*.pdb
+
+# Logs / backups
+*.log
+*.bak
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Pipenv / pip artifacts (not used)
+Pipfile
+Pipfile.lock
+pip-selfcheck.json
+
+# OS junk / IDE settings
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.vs/
+*.vsidx
+slnx.sqlite
+
+# Local temp / misc
+launch.txt
