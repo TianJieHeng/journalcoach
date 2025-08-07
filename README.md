@@ -56,3 +56,6 @@ For development, use .env. For your private EXE later:
 You can embed a DPAPI-encrypted blob and decrypt at runtime to set OPENAI_API_KEY in memory.
 
 Do not distribute the EXE if it contains secrets.
+
+
+License MIT © 2025 Tiān Jié Héng Feel free to fork, and fuck off! :)
